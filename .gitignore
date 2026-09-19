@@ -1,0 +1,7 @@
+__pycache__/
+2
+*.pyc
+3
+.ipynb_checkpoints/
+4
+.vscode/
