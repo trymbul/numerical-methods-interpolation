@@ -1,4 +1,5 @@
 from autograd import grad
+import autograd.numpy as np
 
 def gradient_descent(num_nodes, start, stop, N, f, f_approx, initial_L=1, tol=1e-6):
     #Initial guesses
